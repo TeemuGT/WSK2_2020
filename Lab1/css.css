@@ -1,0 +1,12 @@
+:root{
+    --main-bg-color: coral;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+    background-color: var(--main-bg-color);
+}
+p{
+    color: salmon;
+    font-family: 'Times New Roman', Times, serif;
+}
